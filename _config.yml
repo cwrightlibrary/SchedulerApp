@@ -3,8 +3,3 @@ theme: minima
 title: Scheduler App
 description: Follow the blog posts for updates on the app's development
 author: cwrightlibrary
-
-minima:
-  skin: classic
-  include_css:
-    - /SchedulerApp/assets/css/custom.css
