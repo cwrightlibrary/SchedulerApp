@@ -1,24 +1,24 @@
-name,rank,position,monday-hours,monday-lunch,tuesday-hours,tuesday-lunch,wednesday-hours,wednesday-lunch,thursday-hours,thursday-lunch,friday-1a-hours,friday-1b-lunch,friday-2a-hours,friday-2b-lunch,friday-3a-hours,friday-3b-lunch,saturday-1a-hours,saturday-1b-lunch,saturday-2a-hours,saturday-2b-lunch,saturday-3a-hours,saturday-3b-lunch,sunday-1a-hours,sunday-1b-lunch,sunday-2a-hours,sunday-2b-lunch,sunday-3a-hours,sunday-3b-lunch
-Michael Deer,0,manager,900-1750,1200-1300,900-1750,1200-1300,1400-2000,1700-1750,900-1750,1200-1300
-Rob Filoni,1,assistant manager,1400-2000,1650-1700,900-1750,1200-1300,900-1750,1200-1300,850-1700,1200-1300
-Lars Skywalker,1,assistant manager,900-1750,1300-1400,1400-2000,1650-1700,850-1700,1200-1300,900-1750,1300-1400
-Antwon Yonce,2,supervisor,1400-2000,1600-1650,900-1750,1200-1300,900-1750,1300-1400,900-1750,1200-1300
-Yvette Exeter,2,supervisor,850-1700,1300-1400,900-1750,1300-1400,900-1750,1300-1400,1400-2000,1700-1750
-Samuel Davis,2,supervisor,900-1750,1200-1300,850-1700,1300-1400,1400-2000,1750-1800,900-1750,1300-1400
-Lee Torey,2,supervisor,1150-2000,1650-1750,1150-2000,1650-1750,1150-2000,1650-1750,1400-2000,1750-1800
-Jasper Booker,3,full time,1400-2000,1700-1750,900-1700,1300-1400,900-1750,1200-1300,900-1750,1300-1400
-Chris Wright,3,full time,1400-2000,1700-1750,900-1750,1300-1400,900-1750,1200-1300,900-1750,1200-1300
-Corey Ames,3,full time,1400-2000,1700-1750,900-1750,1200-1300,900-1750,1300-1400,900-1750,1300-1400
-Sean Smith,3,full time,900-1750,1200-1300,900-1750,1300-1400,1400-2000,1700-1750,1150-2000,1600-1700
-Wilbur Macon,3,full time,900-1750,1200-1300,900-1750,1300-1400,1400-2000,1500-1550,1150-2000,1550-1650
-Jordan Holmes,3,full time,900-1750,1300-1400,1400-2000,1750-1800,900-1750,1300-1400,900-1750,1300-1400
-Eric Knight,3,full time,1400-2000,1700-1750,900-1750,1200-1300,900-1750,1200-1300,900-1750,1200-1300
-Wanda Jackson,4,part time,1600-2000,none,1600-2000,none,1600-2000,none,1600-2000,none
-Derrick Lang,4,part time,1650-2000,none,1650-2000,none,1650-2000,none,1650-2000,none
-Christa Combs,4,part time,off,none,1550-2000,none,1550-2000,none,off,none
-Saxon Martin,4,part time,off,none,1700-2000,off,off,none,1700-2000,none
-Jack Clue,5,shelver,950-1275,none,950-1275,none,off,none,950-1275,none
-Jim Chestnut,5,shelver,1200-1500,none,1200-1500,none,1200-1500,none,1200-1500,none
-Steve Clear,6,security full time,900-1700,1300-1400,900-1750,1300-1400,900-1700,1300-1400,900-1750,1300-1400
-Louis James,7,security part time,1725-2025,none,off,none,1725-2025,none,off,none
-Marlon Meade,7,security part time,off,none,1675-2025,none,off,none,1675-2025,none
+name,rank,position,monday-hours,monday-lunch,tuesday-hours,tuesday-lunch,wednesday-hours,wednesday-lunch,thursday-hours,thursday-lunch,friday-1a-hours,friday-1a-lunch,friday-1b-hours,friday-1b-lunch,friday-2a-hours,friday-2a-lunch,friday-2b-hours,friday-2b-lunch,friday-3a-hours,friday-3a-lunch,friday-3b-hours,friday-3b-lunch,saturday-1a-hours,saturday-1a-lunch,saturday-1b-hours,saturday-1b-lunch,saturday-2a-hours,saturday-2a-lunch,saturday-2b-hours,saturday-2b-lunch,saturday-3a-hours,saturday-3a-lunch,saturday-3b-hours,saturday-3b-lunch,sunday-1a-hours,sunday-1a-lunch,sunday-1b-hours,sunday-1b-lunch,sunday-2a-hours,sunday-2a-lunch,sunday-2b-hours,sunday-2b-lunch,sunday-3a-hours,sunday-3a-lunch,sunday-3b-hours,sunday-3b-lunch
+Michael Deer,0,manager,900-1750,1200-1300,900-1750,1200-1300,1400-2000,1700-1750,900-1750,1200-1300,900-1300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rob Filoni,1,assistant manager,1400-2000,1650-1700,900-1750,1200-1300,900-1750,1200-1300,850-1700,1200-1300,850-1750,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lars Skywalker,1,assistant manager,900-1750,1300-1400,1400-2000,1650-1700,850-1700,1200-1300,900-1750,1300-1400,off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Antwon Yonce,2,supervisor,1400-2000,1600-1650,900-1750,1200-1300,900-1750,1300-1400,900-1750,1200-1300,900-1300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Yvette Exeter,2,supervisor,850-1700,1300-1400,900-1750,1300-1400,900-1750,1300-1400,1400-2000,1700-1750,off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Samuel Davis,2,supervisor,900-1750,1200-1300,850-1700,1300-1400,1400-2000,1750-1800,900-1750,1300-1400,off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lee Torey,2,supervisor,1150-2000,1650-1750,1150-2000,1650-1750,1150-2000,1650-1750,1400-2000,1750-1800,900-1300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jasper Booker,3,full time,1400-2000,1700-1750,900-1700,1300-1400,900-1750,1200-1300,900-1750,1300-1400,900-1800,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Chris Wright,3,full time,1400-2000,1700-1750,900-1750,1300-1400,900-1750,1200-1300,900-1750,1200-1300,900-1800,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Corey Ames,3,full time,1400-2000,1700-1750,900-1750,1200-1300,900-1750,1300-1400,900-1750,1300-1400,off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sean Smith,3,full time,900-1750,1200-1300,900-1750,1300-1400,1400-2000,1700-1750,1150-2000,1600-1700,off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wilbur Macon,3,full time,900-1750,1200-1300,900-1750,1300-1400,1400-2000,1500-1550,1150-2000,1550-1650,off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jordan Holmes,3,full time,900-1750,1300-1400,1400-2000,1750-1800,900-1750,1300-1400,900-1750,1300-1400,off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Eric Knight,3,full time,1400-2000,1700-1750,900-1750,1200-1300,900-1750,1200-1300,900-1750,1200-1300,1400-1800,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Wanda Jackson,4,part time,1600-2000,none,1600-2000,none,1600-2000,none,1600-2000,none,off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Derrick Lang,4,part time,1650-2000,none,1650-2000,none,1650-2000,none,1650-2000,none,off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Christa Combs,4,part time,off,none,1550-2000,none,1550-2000,none,off,none,off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Saxon Martin,4,part time,off,none,1700-2000,off,off,none,1700-2000,none,off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jack Clue,5,shelver,950-1275,none,950-1275,none,off,none,950-1275,none,off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Jim Chestnut,5,shelver,1200-1500,none,1200-1500,none,1200-1500,none,1200-1500,none,off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Steve Clear,6,security full time,900-1700,1300-1400,900-1750,1300-1400,900-1700,1300-1400,900-1750,1300-1400,875-1825,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Louis James,7,security part time,1725-2025,none,off,none,1725-2025,none,off,none,off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Marlon Meade,7,security part time,off,none,1675-2025,none,off,none,1675-2025,none,off,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
