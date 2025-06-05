@@ -1,63 +1,67 @@
+/* Caladea Font Faces */
 @font-face {
     font-family: 'Caladea';
-    src: url('/assets/fonts/Caladea/Caladea-Regular.ttf') format('truetype');
+    src: url('/SchedulerApp/assets/fonts/Caladea-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Caladea';
-    src: url('/assets/fonts/Caladea/Caladea-Bold.ttf') format('truetype');
+    src: url('/SchedulerApp/assets/fonts/Caladea-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Caladea';
-    src: url('/assets/fonts/Caladea/Caladea-Italic.ttf') format('truetype');
+    src: url('/SchedulerApp/assets/fonts/Caladea-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Caladea';
-    src: url('/assets/fonts/Caladea/Caladea-BoldItalic.ttf') format('truetype');
+    src: url('/SchedulerApp/assets/fonts/Caladea-BoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
 }
 
+/* Maple Mono Font Faces */
 @font-face {
     font-family: 'MapleMono';
-    src: url('/assets/fonts/MapleMono/MapleMono-Regular.ttf') format('truetype');
+    src: url('/SchedulerApp/assets/fonts/MapleMono-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'MapleMono';
-    src: url('/assets/fonts/MapleMono/MapleMono-Bold.ttf') format('truetype');
+    src: url('/SchedulerApp/assets/fonts/MapleMono-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'MapleMono';
-    src: url('/assets/fonts/MapleMono/MapleMono-Italic.ttf') format('truetype');
+    src: url('/SchedulerApp/assets/fonts/MapleMono-Italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'MapleMono';
-    src: url('/assets/fonts/MapleMono/MapleMono-BoldItalic.ttf') format('truetype');
+    src: url('/SchedulerApp/assets/fonts/MapleMono-BoldItalic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
 }
 
+/* Apply Caladea to body text */
 body {
     font-family: 'Caladea', serif;
 }
 
+/* Apply Maple Mono to code blocks */
 code,
 pre {
     font-family: 'MapleMono', monospace !important;
