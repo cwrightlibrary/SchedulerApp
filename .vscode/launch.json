@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainFrame",
+            "request": "launch",
+            "mainClass": "com.cwrightlibrary.scheduler.ui.MainFrame",
+            "projectName": "SchedulerApp_821db359"
+        },
+        {
+            "type": "java",
+            "name": "Run JavaFX",
+            "request": "launch",
+            "mainClass": "com.cwrightlibrary.scheduler.ui.MainFrame",
+            "vmArgs": "--module-path /Users/christopherwright/JavaFX/javafx-sdk-24.0.1/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
