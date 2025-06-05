@@ -1,5 +1,6 @@
 ---
 title: Development Blog
+layout: home
 ---
 
 # 📚 Scheduler App
